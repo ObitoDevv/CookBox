@@ -24,8 +24,7 @@ Cook Box revolutionizes the way users plan and manage their meals by offering a 
 
 ## Technologies Used
 
-List of technologies used in your project, including frontend and backend frameworks, databases, APIs, and any other relevant tools.
-
-## Tech Stack : ReactJS,NodeJS,MongoDB,ExpressJS
+- **Frontend : HTML, CSS , Javascript, ReactJS
+- **Backend : NodeJS, MongoDB, ExpressJS 
 
 ## Team name : COOK_BOX
