@@ -24,7 +24,7 @@ Cook Box revolutionizes the way users plan and manage their meals by offering a 
 
 ## Technologies Used
 
-- **Frontend : HTML, CSS , Javascript, ReactJS
-- **Backend : NodeJS, MongoDB, ExpressJS 
+- **Frontend :** HTML, CSS , Javascript, ReactJS
+- **Backend :** NodeJS, MongoDB, ExpressJS 
 
 ## Team name : COOK_BOX
